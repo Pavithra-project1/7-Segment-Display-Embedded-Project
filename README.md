@@ -26,7 +26,7 @@ This project demonstrates the interfacing of a Common Anode 7-Segment Display wi
 - 7 Segment Display PROJECT.pdf
 
 ## Simulation
-https://www.tinkercad.com/things/d8Ra5WlePoT-arduino-7-segment-display
+The circuit was designed and simulated using Tinkercad.
 
 ## Author
 Pavithra S
