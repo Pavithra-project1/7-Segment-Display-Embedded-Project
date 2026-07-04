@@ -1,26 +1,32 @@
 # 7-Segment Display Embedded Project
 
 ## Overview
-This project demonstrates the interfacing of a 7-segment display using Embedded C. The circuit was designed and simulated in Tinkercad to display numeric digits.
+This project demonstrates the interfacing of a Common Anode 7-Segment Display with an Arduino UNO using Embedded C. The program sequentially turns ON each segment from a to g and then turns them OFF in reverse order, creating a continuous lighting pattern.
 
 ## Features
-- Displays digits from 0 to 9
+- Arduino UNO based project
+- Common Anode 7-Segment Display
+- Sequential ON/OFF segment control
 - Embedded C programming
-- 7-Segment Display interfacing
-- Circuit simulation using Tinkercad
+- Tinkercad simulation
 
-## Tools Used
+## Components Used
+- Arduino UNO
+- Single Digit 7-Segment Display
+- 220Ω / 330Ω Resistors
+- Breadboard
+- Jumper Wires
+- USB Cable
+
+## Software Used
+- Arduino IDE
 - Tinkercad
-- Embedded C
 
 ## Project Files
 - 7 Segment Display PROJECT.pdf
 
 ## Simulation
-The circuit was designed and simulated using Tinkercad.
-
-## Circuit Diagram
-The circuit diagram is included in the project report (PDF).
+https://www.tinkercad.com/things/d8Ra5WlePoT-arduino-7-segment-display
 
 ## Author
 Pavithra S
